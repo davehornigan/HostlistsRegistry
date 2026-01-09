@@ -1,6 +1,8 @@
 !
 ! Title: AdguardHome Personal DNS filter
 ! Description: Some blocked domains
+
+! XXX
 ||tvrezka.click
 
 ||dzen.ru^$ctag=user_child
@@ -108,3 +110,11 @@
 ||crazygames.com^$ctag=user_child
 ||crazygames.ru^$ctag=user_child
 ||playhop.com^$ctag=user_child
+
+! LLM
+||giga.chat^$ctag=user_child
+||grok.com^$ctag=user_child
+||blackbox.ai^$ctag=user_child
+
+! LLM proxied
+||yandexchatgpt.ru^$ctag=user_child
