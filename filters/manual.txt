@@ -115,6 +115,10 @@
 ||giga.chat^$ctag=user_child
 ||grok.com^$ctag=user_child
 ||blackbox.ai^$ctag=user_child
+||deepseek.com^$ctag=user_child
+||deepseek.ai^$ctag=user_child
+||claude.com^$ctag=user_child
+||claude.ai^$ctag=user_child
 
 ! LLM proxied
 ||yandexchatgpt.ru^$ctag=user_child
