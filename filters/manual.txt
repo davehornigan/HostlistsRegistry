@@ -88,6 +88,7 @@
 ||buzzviral.ru^$ctag=user_child
 ||patstalom.com^$ctag=user_child
 ||meme-arsenal.com^$ctag=user_child
+||zamanilka.ru^$ctag=user_child
 
 ! Trash games
 ||games.yandex.ru^$ctag=user_child
