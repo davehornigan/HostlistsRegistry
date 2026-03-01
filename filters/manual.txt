@@ -24,6 +24,7 @@
 ||bing.com
 ||msn.com^$ctag=user_child
 ||msnfun.com^$ctag=user_child
+||mtalk.google.com^$ctag=user_child
 
 ! Video hostings
 ||vkvideo.ru^$ctag=user_child
@@ -114,6 +115,10 @@
 ||crazygames.ru^$ctag=user_child
 ||playhop.com^$ctag=user_child
 ||tankionline.com^$ctag=user_child
+||fancade.com^$ctag=user_child
+||drivemad.com^$ctag=user_child
+||games.woman.ru^$ctag=user_child
+||8games.net^$ctag=user_child
 
 ! LLM
 ||giga.chat^$ctag=user_child
