@@ -133,3 +133,12 @@
 
 ! LLM proxied
 ||yandexchatgpt.ru^$ctag=user_child
+
+! URL Shorteners
+||sfx.ms^$ctag=user_child
+||bit.ly^$ctag=user_child
+||tinyurl.com^$ctag=user_child
+||bl.ink^$ctag=user_child
+||clck.ru^$ctag=user_child
+||goo.gl^$ctag=user_child
+||vk.cc^$ctag=user_child
