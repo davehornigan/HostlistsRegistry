@@ -5,7 +5,6 @@
 ! XXX
 ||tvrezka.click
 
-||dzen.ru^$ctag=user_child
 ||pikabu.ru^$ctag=user_child
 ||rustore.ru^$ctag=user_child
 ||reactor.cc^$ctag=user_child
@@ -22,6 +21,8 @@
 ||buzzviral.ru^$ctag=user_child
 ||patstalom.com^$ctag=user_child
 ||meme-arsenal.com^$ctag=user_child
+||bing.com
+||msn.com^$ctag=user_child
 
 ! Video hostings
 ||vkvideo.ru^$ctag=user_child
@@ -31,6 +32,7 @@
 ||nuum.ru^$ctag=user_child
 
 ! Social networks
+||dzen.ru^$ctag=user_child
 ||vk.com^$ctag=user_child
 ||vk.me^$ctag=user_child
 ||vk.ru^$ctag=user_child
@@ -110,6 +112,7 @@
 ||crazygames.com^$ctag=user_child
 ||crazygames.ru^$ctag=user_child
 ||playhop.com^$ctag=user_child
+||tankionline.com^$ctag=user_child
 
 ! LLM
 ||giga.chat^$ctag=user_child
