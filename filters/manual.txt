@@ -119,6 +119,7 @@
 ||drivemad.com^$ctag=user_child
 ||games.woman.ru^$ctag=user_child
 ||8games.net^$ctag=user_child
+||igru.net^$ctag=user_child
 
 ! LLM
 ||giga.chat^$ctag=user_child
