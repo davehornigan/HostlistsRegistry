@@ -23,6 +23,7 @@
 ||meme-arsenal.com^$ctag=user_child
 ||bing.com
 ||msn.com^$ctag=user_child
+||msnfun.com^$ctag=user_child
 
 ! Video hostings
 ||vkvideo.ru^$ctag=user_child
