@@ -1,10 +1,8 @@
-!
 ! Title: AdguardHome Personal DNS filter
-! Description: Some blocked domains
+! Description: Cleaned list with Family Safety priority
 
-! XXX
+! XXX and Content
 ||tvrezka.click
-
 ||pikabu.ru^$ctag=user_child
 ||rustore.ru^$ctag=user_child
 ||reactor.cc^$ctag=user_child
@@ -25,6 +23,7 @@
 ||msn.com^$ctag=user_child
 ||msnfun.com^$ctag=user_child
 ||mtalk.google.com^$ctag=user_child
+||zamanilka.ru^$ctag=user_child
 
 ! Video hostings
 ||vkvideo.ru^$ctag=user_child
@@ -44,7 +43,7 @@
 ||instagram.com^$ctag=user_child
 ||facebook.com^$ctag=user_child
 
-! Minecraft
+! Minecraft & Games
 /.*minecraft.*/
 /.*cubecraft.*/
 ||bloxd.io^$ctag=user_child
@@ -57,6 +56,7 @@
 ||inpvp.net^$ctag=user_child
 ||galaxite.net^$ctag=user_child
 ||enchanted.gg^$ctag=user_child
+
 ! Lego
 ||nimblebit.com^$ctag=user_child
 ||lego.com^$ctag=user_child
@@ -69,26 +69,6 @@
 ||go.11klasov.net^$ctag=user_child
 ||11klasov.net^$ctag=user_child
 ||gdz-raketa.ru^$ctag=user_child
-
-! Trash heap
-||dzen.ru^$ctag=user_child
-||pikabu.ru^$ctag=user_child
-||rustore.ru^$ctag=user_child
-||reactor.cc^$ctag=user_child
-||yaplakal.com^$ctag=user_child
-||pokazuha.ru^$ctag=user_child
-||memozg.ru^$ctag=user_child
-||webmg.ru^$ctag=user_child
-||zaebov.net^$ctag=user_child
-||fishki.net^$ctag=user_child
-||pressa.tv^$ctag=user_child
-||gigi.click^$ctag=user_child
-||infostart.ru^$ctag=user_child
-||jo-jo.ru^$ctag=user_child
-||buzzviral.ru^$ctag=user_child
-||patstalom.com^$ctag=user_child
-||meme-arsenal.com^$ctag=user_child
-||zamanilka.ru^$ctag=user_child
 
 ! Trash games
 ||games.yandex.ru^$ctag=user_child
@@ -130,15 +110,29 @@
 ||deepseek.ai^$ctag=user_child
 ||claude.com^$ctag=user_child
 ||claude.ai^$ctag=user_child
-
-! LLM proxied
 ||yandexchatgpt.ru^$ctag=user_child
 
 ! URL Shorteners
-||sfx.ms^$ctag=user_child
 ||bit.ly^$ctag=user_child
 ||tinyurl.com^$ctag=user_child
 ||bl.ink^$ctag=user_child
 ||clck.ru^$ctag=user_child
 ||goo.gl^$ctag=user_child
 ||vk.cc^$ctag=user_child
+
+! Family Safety (Allowlist)
+@@||gfx.ms
+@@||microsoftonline.com
+@@||login.live.com
+@@||family.microsoft.com
+@@||family.live.com
+@@||families.google.com
+@@||settings-win.data.microsoft.com
+@@||events.data.microsoft.com^$ctag=user_child
+@@||check.pki.microsoft.com
+@@||ocsp.digicert.com
+@@||smartscreen.microsoft.com
+@@||urs.microsoft.com
+@@||windowsupdate.com
+@@||mp.microsoft.com^$ctag=user_child
+@@||client.wns.windows.com
