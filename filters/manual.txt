@@ -123,6 +123,7 @@
 ! Family Safety (Allowlist)
 @@||gfx.ms
 @@||microsoftonline.com
+@@||msauth.net
 @@||login.live.com
 @@||family.microsoft.com
 @@||family.live.com
