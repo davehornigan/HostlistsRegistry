@@ -56,6 +56,7 @@
 ||inpvp.net^$ctag=user_child
 ||galaxite.net^$ctag=user_child
 ||enchanted.gg^$ctag=user_child
+||startgamer.net^$ctag=user_child
 
 ! Lego
 ||nimblebit.com^$ctag=user_child
